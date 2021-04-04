@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sim1zzo
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning NodeJs and ExpressJS
-- 💞️ I’m looking to collaborate on webapp projects in Node or .NetCore
+- 🌱 I’m backend software developer.
+- I'm currenly styding ReactJS in order to persue a carrer as a fullstack engineer. 
+- 💞️ I’m looking to collaborate on projects in Node, .NetCore and eventually React as well.
 - 📫 How to reach me itausa6@gmail.com
 
 <!---
