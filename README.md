@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m backend software developer.
 - 🙇 I'm currenly working on my final project in NodeJS and MongoDB. 
-- 💞️ I’m looking to collaborate on projects in Node, SpringBoot and eventually React as well.
+- 💞️ I’m looking to collaborate on projects in Node, SpringBoot.
 - 📫 How to reach me izzosimone6@gmail.com
 
 <!---
