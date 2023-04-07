@@ -1,10 +1,10 @@
 - 👋  Hi, I’m @sim1zzo
-- 👀  I’m interested in software development
+- 👀  I’m interested in software development.
 - 🌱  I’m backend software developer.
-- 🙇  I'm currenly working on my final project in NodeJS and MongoDB. 
-- 📚👨‍💻 I'm constantly learning and studying about Spring Framework.
-- 💞️  I’m looking to collaborate on projects in Node, SpringBoot.
-- 📫  How to reach me izzosimone6@gmail.com
+- 🙇  I'm currenly working as an IoT Engineer for Reply. 
+- 📚👨‍💻 I'm constantly learning and studying.
+- 👨‍💻 I'm currently working on a personal project built in Django.
+- 💞️  In love with Node, SpringBoot, and Django.
 
 <!---
 sim1zzo/sim1zzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
